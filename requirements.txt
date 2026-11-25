@@ -1,0 +1,11 @@
+# Install PyTorch first, for your CUDA version, from https://pytorch.org
+# (the article used torch 2.7.1 with CUDA 12.8).
+numpy==1.26.4
+scipy
+scikit-learn
+networkx
+pandas
+scapy
+tqdm
+matplotlib
+optuna==5.1.0

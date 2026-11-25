@@ -1,0 +1,26 @@
+# Data and generated outputs are not part of the repository
+outputs*/
+dataset_ready*/
+graphs_*/
+seeds_*/
+tuning_*/
+history_lr_*/
+analysis_*/
+stage[0-9]*/
+stage*_bo/
+stage*_rs/
+scores_*/
+capacity_check/
+data_analysis/
+*.pcap
+*.pcapng
+*.pkl
+*.pt
+*.npz
+*.db
+*.zip
+*.tar.gz
+*_log.txt
+__pycache__/
+.ipynb_checkpoints/
+make_repo.bat
